@@ -9,7 +9,7 @@
 -🌞 I speak a litle English <br></br>
 
 ### Languages and tools
-<img src="https://cdn,jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+<img src="https://icons8.ru/icon/gYCTehfTlYk5/javascript-логотип"
 title="js" width="40" height="40"/>&nbsp;
 
 
