@@ -6,7 +6,10 @@
 
 ### About me
 -🗒 I study at softuni <br></br>
--🌙 I know js,html,css <br></br>
 -🌞 I speak a litle English <br></br>
+
+### Languages and tools
+<img src="https://cdn,jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+title="js" width="40" height="40"/>&nbsp;
 
 
