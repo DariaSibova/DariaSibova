@@ -12,8 +12,6 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DariaSibova&theme=city_lights&utcOffset=8)
-
 
 
 
