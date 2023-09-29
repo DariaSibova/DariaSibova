@@ -5,7 +5,7 @@
 </div>
 
 ### About me
--🗒 I study at softuni <br>
+-🗒 I study at softuni <br></br>
 -🌙 I know js,html,css <br>
 -🌞 I speak a litle English <br>
 
