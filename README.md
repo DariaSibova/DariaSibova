@@ -5,8 +5,8 @@
 </div>
 
 ### About me
--🗒 I study at softuni
--🌙 I know js,html,css
+-🗒 I study at softuni <br>
+-🌙 I know js,html,css 
 -🌞 I speak a litle English
 
 
