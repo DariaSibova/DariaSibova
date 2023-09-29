@@ -8,6 +8,8 @@
 -🗒 I study at softuni <br></br>
 -🌞 I speak a litle English <br></br>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DariaSibova&theme=city_lights)
+
 
 
 
