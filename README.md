@@ -11,7 +11,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DariaSibova&theme=city_lights)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DariaSibova&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DariaSibova&theme=city_lights) align="left"
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DariaSibova&theme=city_lights&utcOffset=8)
 
