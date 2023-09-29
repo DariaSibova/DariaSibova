@@ -6,7 +6,7 @@
 
 ### About me
 -🗒 I study at softuni <br>
--🌙 I know js,html,css 
--🌞 I speak a litle English
+-🌙 I know js,html,css <br>
+-🌞 I speak a litle English <br>
 
 
