@@ -10,7 +10,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DariaSibova&theme=city_lights)
 
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Atcuka/30-nites-of-code)  
+  ![@Atcuka #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Atcuka)
 
 
 
